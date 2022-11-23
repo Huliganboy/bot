@@ -4,8 +4,8 @@ import env from '../../env';
 import debug from 'debug';
 
 const ll = debug('notionbot::telegramConnector');
-const bot = new Telegraf(env.TELEGRAM_BOT_TOKEN);
-const telegramOwnerId = env.TELEGRAM_OWNER_ID;
+const bot = new Telegraf(env.5834715109:AAFRlTP8qI4T_hQH1huOJZkuEcz-jguIC6E);
+const telegramOwnerId = env.1233979139;
 const allowTelegramIds = env.TELEGRAM_ALLOW_IDS;
 
 export default {
